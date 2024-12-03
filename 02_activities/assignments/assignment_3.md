@@ -8,15 +8,32 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
         Your answer...
+Historical Apportionment Data Map
+    The map appears to be a well-designed tool that adheres to many ethical principles of data visualization. It is designed to be interactive and user-friendly, making it accessible to a wide audience. It allows users to explore data across different decades, which can be particularly useful for educators, researchers, and the general public. It has reproducibility as the Census Bureau provides detailed notes and data tables that accompany the map, which can help users understand and reproduce the results. This transparency is crucial for maintaining trust and credibility in data visualization. The Map aims to present data accurately and fairly, reflecting changes in population and representation over time to deminish equity concern. It tries to ensure that the visualizations do not misrepresent or exclude any groups
+
+
+Missions to Mars
+    The visualization appears to be designed with interactivity in mind, allowing users to explore different missions, timelines, and data points. This can make it accessible to a broad audience. The creator provide data sources, citations etc during the creation of the visualization. This transparency allows others to replicate the results and verify the accuracy of the data presented. The data is from Wikipedia which might not showing accruatly and creditable source, that may not reflect the contributions and achievements of all involved parties. This raise equity concernt in this visualization.
+
 
 
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
-        Your answer...
+Historical Apportionment Data Map
+    Accessibility: It depends on the user's familiarity with digital tools and data visualization techniques. Ensuring that the map is accompanied by clear instructions and support can enhance its accessibility.
 
+    Reproducibility: Providing the data in various formats (e.g., CSV, PDF) allows for easier replication of the visualizations.
 
+    Equity: It's important to consider whether the map adequately represents all demographic groups and whether any biases in data collection or presentation might affect the interpretation of the data
+
+Missions to Mars
+    Accessibility： Simplify Navigation by using clear labels for interactive elements and provide a consistent layout. Using high-contrast colors to make text and visual elements more readable
+
+    Reproducibility: Make the raw data available for download in multiple formats (e.g., CSV, Excel, JSON). This allows others to replicate the analysis and visualization using the same data. Encourage peer review of the visualization and its underlying data. Feedback from other experts can help identify any potential issues and improve the overall quality and reproducibility of the visualization.
+
+    Equity: Ensure data sources from creditable parities by not only retrive data from major space agencies like NASA and ESA but also contributions from smaller nations, private companies, and international collaborations. Provide contextual information to explain the historical and geopolitical factors that might have influenced Mars missions
 
         ```
 
